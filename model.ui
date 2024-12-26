@@ -33,7 +33,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/model3.png</pixmap>
+     <pixmap>images/model3.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -58,7 +58,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/tap_is_open.png</pixmap>
+     <pixmap>images/tap_is_open.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -77,7 +77,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/coil_cooling.png</pixmap>
+     <pixmap>images/coil_cooling.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -96,7 +96,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/coil_heating.png</pixmap>
+     <pixmap>images/coil_heating.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -118,7 +118,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/liquid_level.png</pixmap>
+     <pixmap>images/liquid_level.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -140,7 +140,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/tap_is_open.png</pixmap>
+     <pixmap>images/tap_is_open.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -162,7 +162,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/tap_is_open.png</pixmap>
+     <pixmap>images/tap_is_open.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -238,7 +238,7 @@
      <string/>
     </property>
     <property name="pixmap">
-     <pixmap>foto/motor1.1.png</pixmap>
+     <pixmap>images/motor1.1.png</pixmap>
     </property>
     <property name="scaledContents">
      <bool>true</bool>
@@ -273,7 +273,7 @@
      <enum>Qt::CustomContextMenu</enum>
     </property>
     <property name="currentIndex">
-     <number>2</number>
+     <number>0</number>
     </property>
     <widget class="QWidget" name="tab_5">
      <attribute name="title">
@@ -836,7 +836,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_red.png</pixmap>
+       <pixmap>images/atten_red.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -858,7 +858,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_yel.png</pixmap>
+       <pixmap>images/atten_yel.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -934,7 +934,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/leg.png</pixmap>
+       <pixmap>images/leg.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1075,7 +1075,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_yel.png</pixmap>
+       <pixmap>images/atten_yel.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1150,7 +1150,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_red.png</pixmap>
+       <pixmap>images/atten_red.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1363,7 +1363,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_red.png</pixmap>
+       <pixmap>images/atten_red.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1412,7 +1412,7 @@
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>foto/atten_yel.png</pixmap>
+       <pixmap>images/atten_yel.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1682,7 +1682,7 @@
      <x>0</x>
      <y>0</y>
      <width>1178</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
